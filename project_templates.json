@@ -31,6 +31,14 @@
       "Resolution Width": "250",
       "Resolution Height": "2000",
       "frame rate": "25"
+    },
+       {
+      "Project": "Hello Dolly",
+      "map nam": "m150",
+      "Description": "Floor",
+      "Resolution Width": "2500",
+      "Resolution Height": "3000",
+      "frame rate": "25"
     }
   ]
 }
