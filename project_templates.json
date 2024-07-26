@@ -1,28 +1,28 @@
 {
   "projects": [
     {
-      "Project": "Project 1",
-      "map nam": "MAP1",
-      "Description": "Description 1",
+      "Project": "Mean Girls",
+      "map nam": "m100",
+      "Description": "Top Wall",
       "Resolution Width": "1920",
       "Resolution Height": "1080",
       "frame rate": "30"
     },
     {
-      "Project": "Project 2",
-      "map nam": "MAP2",
-      "Description": "Description 2",
+      "Project": "Mean Girls",
+      "map nam": "m200",
+      "Description": "Bottom Wall",
       "Resolution Width": "3840",
       "Resolution Height": "2160",
-      "frame rate": "60"
+      "frame rate": "25"
     },
      {
-      "Project": "Project 3",
-      "map nam": "MAP100",
-      "Description": "Description 2",
-      "Resolution Width": "1080",
-      "Resolution Height": "1920",
-      "frame rate": "60"
+      "Project": "Chase And Status",
+      "map nam": "Summer",
+      "Description": "Summer Set Up",
+      "Resolution Width": "5760",
+      "Resolution Height": "1080",
+      "frame rate": "25"
     }
   ]
 }
