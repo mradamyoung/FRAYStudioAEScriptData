@@ -15,6 +15,14 @@
       "Resolution Width": "3840",
       "Resolution Height": "2160",
       "frame rate": "60"
+    },
+     {
+      "Project": "Project 3",
+      "map nam": "MAP100",
+      "Description": "Description 2",
+      "Resolution Width": "1080",
+      "Resolution Height": "1920",
+      "frame rate": "60"
     }
   ]
 }
