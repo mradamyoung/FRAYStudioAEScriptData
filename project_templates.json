@@ -24,5 +24,13 @@
       "Resolution Height": "1080",
       "frame rate": "25"
     }
+        {
+      "Project": "Hello Dolly",
+      "map nam": "m999",
+      "Description": "Moving Legs",
+      "Resolution Width": "250",
+      "Resolution Height": "2000",
+      "frame rate": "25"
+    }
   ]
 }
