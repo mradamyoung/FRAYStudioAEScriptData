@@ -1,24 +1,40 @@
 {
   "projects": [
     {
-      "Project": "Mean Girls",
-      "map nam": "m100",
-      "Description": "Top Wall",
-      "Resolution Width": "1920",
-      "Resolution Height": "1080",
+      "Project": "Glass Animals",
+      "map nam": "m101",
+      "Description": "Back Wall",
+      "Resolution Width": "3120",
+      "Resolution Height": "1664",
+      "frame rate": "30"
+    },
+      {
+      "Project": "Glass Animals",
+      "map nam": "m201",
+      "Description": "Console Screens",
+      "Resolution Width": "2048",
+      "Resolution Height": "128",
       "frame rate": "30"
     },
     {
-      "Project": "Mean Girls",
-      "map nam": "m200",
-      "Description": "Bottom Wall",
-      "Resolution Width": "3840",
-      "Resolution Height": "2160",
-      "frame rate": "25"
+      "Project": "Glass Animals",
+      "map nam": "m301",
+      "Description": "Roof ring",
+      "Resolution Width": "2496",
+      "Resolution Height": "208",
+      "frame rate": "30"
+    },
+     {
+      "Project": "Glass Animals",
+      "map nam": "m401",
+      "Description": "Peppers Ghost",
+      "Resolution Width": "320",
+      "Resolution Height": "320",
+      "frame rate": "30"
     },
      {
       "Project": "Chase And Status",
-      "map nam": "Summer",
+      "map nam": "Summer Width",
       "Description": "Summer Set Up",
       "Resolution Width": "5760",
       "Resolution Height": "1080",
@@ -26,19 +42,11 @@
     },
         {
       "Project": "Hello Dolly",
-      "map nam": "m999",
-      "Description": "Moving Legs",
-      "Resolution Width": "250",
-      "Resolution Height": "2000",
-      "frame rate": "25"
-    },
-       {
-      "Project": "Hello Dolly",
-      "map nam": "m150",
-      "Description": "Floor",
-      "Resolution Width": "2500",
-      "Resolution Height": "3000",
-      "frame rate": "25"
+      "map nam": "m100",
+      "Description": "Main Screen",
+      "Resolution Width": "3840",
+      "Resolution Height": "2496",
+      "frame rate": "30"
     }
   ]
 }
