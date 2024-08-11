@@ -7,6 +7,10 @@
       "Resolution Width": "3120",
       "Resolution Height": "1664",
       "frame rate": "30"
+      "guides": [
+        {"orientation": "horizontal", "position": 832},
+        {"orientation": "vertical", "position": 1560}
+      ]
     },
       {
       "Project": "Glass Animals",
@@ -15,6 +19,10 @@
       "Resolution Width": "2048",
       "Resolution Height": "128",
       "frame rate": "30"
+      "guides": [
+        {"orientation": "horizontal", "position": 64},
+        {"orientation": "vertical", "position": 1024}
+      ]
     },
     {
       "Project": "Glass Animals",
