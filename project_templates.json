@@ -16,6 +16,7 @@
       "Resolution Width": "2048",
       "Resolution Height": "128",
       "frame rate": "30"
+      "template": ""
     },
     {
       "Project": "Glass Animals",
@@ -24,6 +25,7 @@
       "Resolution Width": "2496",
       "Resolution Height": "208",
       "frame rate": "30"
+      "template": ""
     },
      {
       "Project": "Glass Animals",
@@ -32,6 +34,7 @@
       "Resolution Width": "320",
       "Resolution Height": "320",
       "frame rate": "30"
+      "template": ""
     },
      {
       "Project": "Chase And Status",
@@ -40,6 +43,7 @@
       "Resolution Width": "5760",
       "Resolution Height": "1080",
       "frame rate": "25"
+      "template": ""
     },
         {
       "Project": "Hello Dolly",
@@ -48,6 +52,7 @@
       "Resolution Width": "3840",
       "Resolution Height": "2496",
       "frame rate": "30"
+      "template": ""     
     }
   ]
 }
