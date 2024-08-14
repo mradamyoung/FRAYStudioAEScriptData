@@ -15,8 +15,7 @@
       "Description": "Console Screens",
       "Resolution Width": "2048",
       "Resolution Height": "128",
-      "frame rate": "30",
-      "guideFile": ""
+      "frame rate": "30"
     },
     {
       "project": "Glass Animals",
@@ -24,8 +23,7 @@
       "Description": "Roof Ring",
       "Resolution Width": "2496",
       "Resolution Height": "208",
-      "frame rate": "30",
-      "guideFile": ""
+      "frame rate": "30"
     },
     {
       "project": "Glass Animals",
@@ -33,8 +31,7 @@
       "Description": "Peppers Ghost",
       "Resolution Width": "320",
       "Resolution Height": "320",
-      "frame rate": "30",
-      "guideFile": ""
+      "frame rate": "30"
     },
     {
       "project": "Chase and Status",
@@ -42,8 +39,7 @@
       "Description": "Summer Set Up",
       "Resolution Width": "5760",
       "Resolution Height": "1080",
-      "frame rate": "25",
-      "guideFile": ""
+      "frame rate": "25"
     },
     {
       "project": "Hello Dolly",
@@ -51,8 +47,7 @@
       "Description": "Main Screen",
       "Resolution Width": "3840",
       "Resolution Height": "2496",
-      "frame rate": "30",
-      "guideFile": ""
+      "frame rate": "30"
     }
   ]
 }
