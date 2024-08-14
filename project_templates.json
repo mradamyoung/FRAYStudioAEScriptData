@@ -1,7 +1,7 @@
 {
   "projects": [
     {
-      "project": "Glass Animals",
+      "Project": "Glass Animals",
       "map nam": "m101",
       "Description": "Back Wall",
       "Resolution Width": "3120",
@@ -10,39 +10,42 @@
       "guideFile": "TestGuide.jpg"
     },
     {
-      "project": "Glass Animals",
+      "Project": "Glass Animals",
       "map nam": "m201",
       "Description": "Console Screens",
       "Resolution Width": "2048",
       "Resolution Height": "128",
-      "frame rate": "30"
+      "frame rate": "30",
+      "guideFile": "GA_ConsoleScreens_guide.png"
     },
     {
-      "project": "Glass Animals",
+      "Project": "Glass Animals",
       "map nam": "m301",
-      "Description": "Roof Ring",
+      "Description": "Roof ring",
       "Resolution Width": "2496",
       "Resolution Height": "208",
       "frame rate": "30"
     },
     {
-      "project": "Glass Animals",
+      "Project": "Glass Animals",
       "map nam": "m401",
       "Description": "Peppers Ghost",
       "Resolution Width": "320",
       "Resolution Height": "320",
-      "frame rate": "30"
+      "frame rate": "30",
+      "guideFile": "GA_PeppersGhost_guide.png"
     },
     {
-      "project": "Chase and Status",
-      "map nam": "Summer24",
+      "Project": "Chase And Status",
+      "map nam": "Summer Width",
       "Description": "Summer Set Up",
       "Resolution Width": "5760",
       "Resolution Height": "1080",
-      "frame rate": "25"
+      "frame rate": "25",
+      "guideFile": "CAS_SummerSetup_guide.png"
     },
     {
-      "project": "Hello Dolly",
+      "Project": "Hello Dolly",
       "map nam": "m100",
       "Description": "Main Screen",
       "Resolution Width": "3840",
